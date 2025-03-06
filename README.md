@@ -13,7 +13,8 @@
 <br/>
 
 ## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=XWF8188&show_icons=true&count_private=true&hide_border=true" align="center" style="height:180px;" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=XWF8188&show_icons=true&count_private=true&hide_border=true" align="center" style="height:180px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XWF8188&show_icons=true&count_private=true&hide_border=true" align="center" style="height:180px;" /></div>
 
 <br/>
 
