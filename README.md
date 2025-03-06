@@ -8,8 +8,15 @@
 ## Github Steak
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=XWF8188&theme=dark&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&locale=zh_Hans&short_numbers=%E9%94%99%E8%AF%AF%E7%9A%84" align="center" /></div>
 
-## Github Stats
+## Github 统计
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=XWF8188&show_icons=true&count_private=true&hide_border=true" align="center" style="height:180px;" />
 
-## Github Activity Graph
+## GitHub 活动图
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=XWF8188&bg_color=000000&color=ffffff&line=6ef500&point=00fbff&area=true&hide_border=true" align="center" />
+
+## 访客计数器
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=XWF8188&&style=flat-square" align="center" />
+
+
+<div align="center"><img src="https://moe-counter.glitch.me/get/@XWF8188?theme=rule34" align="center" />
