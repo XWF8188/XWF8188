@@ -11,3 +11,6 @@
 
 ## Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=XWF8188&show_icons=true&count_private=true&hide_border=true" align="center" style="height:180px;" />
+
+## Github Activity Graph
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=XWF8188&bg_color=000000&color=ffffff&line=6ef500&point=00fbff&area=true&hide_border=true" align="center" />
