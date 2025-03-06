@@ -8,7 +8,7 @@
 <br/>
 
 ## Github Steak
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=XWF8188&theme=dark&hide_border=%E7%9C%9F%E7%9A%84&locale=zh_Hans&short_numbers=%E7%9C%9F%E7%9A%84" align="center" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=XWF8188&locale=zh_Hans" align="center" /></div>
 
 <br/>
 
