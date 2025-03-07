@@ -12,6 +12,7 @@
 <br/>
 
 ## Github Contribution
+<!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://raw.githubusercontent.com/XWF8188/XWF8188/main/github-contribution-grid-snake.svg" /></div>
 
 <br/>
