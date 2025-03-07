@@ -11,6 +11,11 @@
 
 <br/>
 
+## Github Contribution
+<div align="center"><img src="https://raw.githubusercontent.com/XWF8188/XWF8188/main/github-contribution-grid-snake.svg" /></div>
+
+<br/>
+
 ## Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=XWF8188&show_icons=true&count_private=true&hide_border=true" align="center" style="height:180px;" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XWF8188&show_icons=true&count_private=true&hide_border=true" align="center" style="height:180px;" /></div>
 
@@ -18,11 +23,6 @@
 
 ## Github Activity Graph
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=XWF8188&bg_color=000000&color=ffffff&line=6ef500&point=00fbff&area=true&hide_border=true" align="center" /></div>
-
-<br/>
-
-## Github Contribution
-<div align="center"><img src="https://raw.githubusercontent.com/XWF8188/XWF8188/main/github-contribution-grid-snake.svg" /></div>
 
 <br/>
 
