@@ -6,19 +6,14 @@
 
 <br/>
 
-## Github Steak
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=XWF8188&locale=zh_Hans" align="center" /></div>
+## Github Steak & Github Stats
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=XWF8188&locale=zh_Hans" align="center" /><img src="https://github-readme-stats.vercel.app/api?username=XWF8188&show_icons=true&count_private=true&hide_border=true" align="center" style="height:210px;" /></div>
 
 <br/>
 
 ## Github Contribution
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://raw.githubusercontent.com/XWF8188/XWF8188/main/github-contribution-grid-snake.svg" /></div>
-
-<br/>
-
-## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=XWF8188&show_icons=true&count_private=true&hide_border=true" align="center" style="height:180px;" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XWF8188&show_icons=true&count_private=true&hide_border=true" align="center" style="height:180px;" /></div>
 
 <br/>
 
