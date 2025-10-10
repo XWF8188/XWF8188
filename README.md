@@ -18,7 +18,7 @@
 <br/>
 
 ## Github Activity Graph
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=XWF8188&bg_color=000000&color=ffffff&line=6ef500&point=00fbff&area=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=XWF8188&bg_color=000000&color=ffffff&line=6ef500&point=00fbff&area=true&hide_border=true&locale=cn" align="center" /></div>
 
 <br/>
 
