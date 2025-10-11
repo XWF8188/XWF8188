@@ -23,8 +23,10 @@
 <br/>
 
 ## Visitor Counter
-<div align="center"><img src="https://komarev.com/ghpvc/?username=XWF8188&&style=for-the-badge&color=ff69b4" align="center" /></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=XWF8188&&style=for-the-badge&abbreviated=true&color=ff69b4" align="center" /></div>
+
 <br/>
+
 <div align="center"><img src="https://moe-counter.glitch.me/get/@XWF8188?theme=shimmie2" align="center" /></div>
 
 <br/>
