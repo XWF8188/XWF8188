@@ -27,6 +27,6 @@
 
 <br/>
 
-<div align="center"><img src="https://moe-counter.glitch.me/get/@XWF8188?theme=shimmie2" align="center" /></div>
+<div align="center"><img src="https://count.getloli.com/@XWF8188?name=XWF8188&theme=shimmie2&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" /></div>
 
 <br/>
