@@ -27,6 +27,6 @@
 
 <br/>
 
-<div align="center"><img src="https://moe-counter.glitch.me/get/@XWF8188?theme=shimmie2" align="center" /></div>
+<div align="center"><img src="https://moe-counter.glitch.me/get/@XWF8188?theme=booru-lewd" align="center" /></div>
 
 <br/>
